@@ -1,5 +1,9 @@
 <template>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div>
+    <!-- <NuxtWelcome /> -->
+    <h1>Hello Nuxt</h1>
+    <h1>start soon</h1>
+    <h1>404</h1>
+  </div>
 </template>
+
